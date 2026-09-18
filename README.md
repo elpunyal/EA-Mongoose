@@ -84,3 +84,4 @@ Requiere una instancia de MongoDB accesible en `mongodb://127.0.0.1:27017` (o ed
 npx tsc
 node dist/main.js
 ```
+Link Video Seminari 2: https://drive.google.com/file/d/1swh9qf11CHTnonwB9vwWnksJ1S_mXebm/view?usp=sharing
